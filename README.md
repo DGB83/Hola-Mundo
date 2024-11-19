@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Este proyecto consiste en darse de alta en GitHub, crear un repositorio y añadir los elementos: 1 archivo `README.md` con una breve explicación de la tarea y un archivo en Python que imprima "Hola Mundo" en la consola
+Este proyecto consiste en darse de alta en GitHub, crear un repositorio y añadir un archivo `README.md` con una breve explicación de la tarea y un archivo en Python que imprima "Hola Mundo" en la consola
 
 ## Pasos Realizados
 
