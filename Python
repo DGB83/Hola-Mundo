@@ -1,0 +1,2 @@
+# Este codigo imprime "Hola mundo" en consola
+print("Hola Mundo")
