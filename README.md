@@ -1,8 +1,8 @@
-# Hola-Mundo - GitHub
+# Hola-Mundo - Github
 
 ## Descripcion
 
-Este proyecto consiste en darse de alta en GitHub, crear un repositorio y añadir un archivo `README.md` con una breve explicación de la tarea y un archivo en Python que imprima "Hola Mundo" en la consola
+Este proyecto consiste en darse de alta en Github, crear un repositorio y añadir un archivo `README.md` con una breve explicación de la tarea y un archivo en Python que imprima "Hola Mundo" en la consola
 
 ## Pasos Realizados
 
@@ -11,7 +11,7 @@ Este proyecto consiste en darse de alta en GitHub, crear un repositorio y añadi
    - Durante el proceso, se solicitó saltarse la personalización de la cuenta ("skip personalization") a petición del intructor
    
 2. **Crear repositorio "Hola Mundo"**:
-   - Se ha creado un nuevo repositorio en GitHub.
+   - Se ha creado un nuevo repositorio en Github.
    - En el repositorio, se incluyo un archivo `README.md` con la descripcion de este proyecto
    - Se añadio un archivo en Python que contiene el siguiente codigo:
      
@@ -37,7 +37,7 @@ Además de crear el repositorio en GitHub, se realizó lo siguiente para conecta
 
 ## Tecnologias Utilizadas
 
-- **GitHub**: Plataforma para gestión de repositorios y colaboración en proyectos de software
+- **Github**: Plataforma para gestión de repositorios y colaboración en proyectos de software
 - **Python**: Lenguaje de programación utilizado para el ejercicio "Hola Mundo"
 
 ## Requisitos
